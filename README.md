@@ -1,2 +1,2 @@
-# Tugas6
-HW6 PROA SQA 
+# saucedemo-automation
+Automation web testing on saucedemo
